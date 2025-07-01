@@ -1,0 +1,14 @@
+[
+  {
+    "frame": { "y": 0, "w": 3840, "x": 0, "h": 2160 },
+    "app_name": "Finder",
+    "screen_name": "SAMSUNG",
+    "app_bundle_id": "com.apple.finder"
+  },
+  {
+    "frame": { "y": 0, "w": 3840, "x": 0, "h": 2160 },
+    "app_name": "Code",
+    "screen_name": "SAMSUNG",
+    "app_bundle_id": "com.microsoft.VSCode"
+  }
+]

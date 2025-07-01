@@ -9,3 +9,9 @@ open -a hammerspoon
 ```bash
 osascript -e 'quit app "Hammerspoon"'
 ```
+
+# RELOAD HAMMERSPOON
+
+```bash
+hs -c "hs.reload()"
+```
